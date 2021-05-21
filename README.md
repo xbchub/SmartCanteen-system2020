@@ -1,4 +1,7 @@
 [我的个人主页](https://xbchub.github.io/)
+## 整体照片
+
+![2020电子设计大赛.jpg](https://i.loli.net/2021/05/21/BHYEZW1biaN9Txv.jpg)
 
 ## 报告
 
