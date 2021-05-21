@@ -1,4 +1,4 @@
-![我的个人主页](https://xbchub.github.io/)
+[我的个人主页](https://xbchub.github.io/)
 
 ## 报告
 
